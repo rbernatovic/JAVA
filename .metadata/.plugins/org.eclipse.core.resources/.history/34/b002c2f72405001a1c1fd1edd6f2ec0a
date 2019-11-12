@@ -1,0 +1,17 @@
+package lt.codeacademy;
+
+import java.util.*;
+
+public class CarRentSystem {
+
+	public static void main(String[] args) {
+		String name = "stalas";
+		int amzius = 25;
+		double ilgis = 546546515;
+		float pokablelio = 23.3f;
+		boolean rezultatas = false;
+		System.out.println("Uzduoties ilgis lygus " + ilgis + " metrams");
+		System.out.println("Ar tai yra tiesa?" + rezultatas);
+	}
+
+}

@@ -1,0 +1,15 @@
+package lt.codeacademy;
+
+public class CarRentSystem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String tekstukas = "ilgas labai ilgas tekstas";
+		String tevas = "tavo tevas";
+		
+		System.out.println(tekstukas + tevas);
+		
+	}
+
+}

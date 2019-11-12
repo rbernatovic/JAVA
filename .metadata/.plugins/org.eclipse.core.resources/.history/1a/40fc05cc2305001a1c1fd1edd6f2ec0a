@@ -1,0 +1,16 @@
+package lt.codeacademy;
+
+import java.util.*;
+
+public class CarRentSystem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("1 Sveikas, Pasauli");
+		Date d = new Date();
+		System.out.println("1 Data: " + d.toString());
+		
+	}
+
+}

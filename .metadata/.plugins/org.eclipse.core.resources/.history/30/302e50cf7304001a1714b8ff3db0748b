@@ -1,0 +1,12 @@
+package lt.codeacademy;
+
+public class CarRentSystem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.print("Mano vardas Rapolas");
+		System.out.print("Mano vardas ne Tadas");
+		System.out.print("Mano vardas ne Tomas");
+	}
+
+}
